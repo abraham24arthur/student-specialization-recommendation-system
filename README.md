@@ -52,6 +52,9 @@ The closest specialization is selected.
 ---
 
 ## 📊 Results
+
+![Recommendation Distribution](recommendation_distribution.png)
+
 - Network Engineering is the most recommended
 - Data Science is the second
 - Software Engineering is the least
