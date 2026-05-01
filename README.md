@@ -1,5 +1,11 @@
 # Student Specialization Recommendation System
 
+## 🚀 Why This Project Matters
+
+In many universities, students struggle to choose the right specialization due to lack of data-driven guidance. Decisions are often based on intuition rather than evidence.
+
+This project demonstrates how student performance data can be used to generate meaningful recommendations using both rule-based logic and distance-based algorithms.
+
 ## 📌 Overview
 This project aims to recommend suitable specializations for students based on their academic performance. It compares a rule-based approach with a Manhattan Distance method to provide data-driven recommendations.
 
