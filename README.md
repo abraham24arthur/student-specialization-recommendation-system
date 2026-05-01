@@ -55,7 +55,8 @@ The closest specialization is selected.
 
 ![Recommendation Distribution](recommendation_distribution.png)
 
-The visualization reveals a strong tendency toward Network Engineering recommendations, indicating that many students have performance profiles aligned with infrastructure and systems-oriented skills. In contrast, Data Science appears as a secondary path, suggesting moderate analytical strength among students. Software Engineering shows minimal selection, which may indicate either stricter thresholds or lower alignment with programming-heavy criteria in this dataset.
+- The visualization reveals a strong tendency toward Network Engineering recommendations, indicating that many students have performance profiles aligned with infrastructure and systems-oriented skills. In contrast, Data Science appears as a secondary path, suggesting moderate analytical strength among students. Software Engineering shows minimal selection, which may indicate either stricter thresholds or lower alignment with programming-heavy criteria in this dataset.
+
 ---
 
 ## 🔍 Insights
